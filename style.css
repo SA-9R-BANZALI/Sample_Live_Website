@@ -1,0 +1,36 @@
+body {
+	background-color: lightpink;
+}
+
+h1 {
+	font-size: 60px;
+	color: white;
+	text-align:center;
+	
+}
+
+
+.container {
+    text-align: center;
+    
+    width: 300px;
+    margin: auto;
+    border: 10px black;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+#leftlang {
+    text-align: center;
+}
+body{
+    background-image: url('https://i.pinimg.com/originals/a3/03/f8/a303f8548837f44012d8da46823a1fe7.png');
+    background-size: cover;
+    
+    
+    
+ 
